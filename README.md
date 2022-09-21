@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katlyndah
 - 👀 I’m interested in tech I photography I God I cats
-- 🌱 I’m currently learning Software engineering
+- 🌱 I’m currently learning Software engineering + Blockchain Development
 - 💞️ I’m looking to collaborate on whatever helps me get better at this!
 - 📫 How to reach me lyndahkats@gmail.com
 
