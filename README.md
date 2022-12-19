@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katlyndah
+- 👋 Hi, I’m Lyndah
 - 👀 I’m interested in tech I photography I God I cats
 - 🌱 I’m currently learning Software engineering + Blockchain Development
 - 💞️ I’m looking to collaborate on whatever helps me get better at this!
